@@ -37,7 +37,9 @@ h1 {
 body {
     margin: 0;
 }
-
+.clear {
+  padding: 20px;
+}
 /* Header/logo Title */
 .header {
     padding: 60px;

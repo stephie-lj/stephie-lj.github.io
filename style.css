@@ -21,12 +21,12 @@ button {
 h1 {
   line-height: 2;
 }
-
+@media screen and (max-width: 600px) {
 .responsive {
     width: 100%;
     height: auto;
 }
-
+}
 #intro {
   line-height: 3;
   letter-spacing: 3;
